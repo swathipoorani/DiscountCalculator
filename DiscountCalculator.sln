@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscountCalculator", "DiscountCalculator\DiscountCalculator.csproj", "{DFEB8258-8D6C-426A-A9E7-D5540ADC935C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscountCalculator.Test", "DiscountCalculator.Test\DiscountCalculator.Test.csproj", "{FBA82322-DAE4-4A48-9E78-64705E7961AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFEB8258-8D6C-426A-A9E7-D5540ADC935C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFEB8258-8D6C-426A-A9E7-D5540ADC935C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFEB8258-8D6C-426A-A9E7-D5540ADC935C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFEB8258-8D6C-426A-A9E7-D5540ADC935C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBA82322-DAE4-4A48-9E78-64705E7961AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBA82322-DAE4-4A48-9E78-64705E7961AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBA82322-DAE4-4A48-9E78-64705E7961AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBA82322-DAE4-4A48-9E78-64705E7961AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0AEB37D-2196-4646-AA31-E4E7C0BFAB7E}
+	EndGlobalSection
+EndGlobal
